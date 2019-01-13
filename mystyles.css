@@ -1080,7 +1080,7 @@ border-right: 2px solid rgb(137,137,137);
     text-align: center;
 }
     .temperature-tile:after {
-        content: "\1f321\FE0E ";
+        content: "\1f321\FE0F";
     }
 
 .greenery-tile {
@@ -1103,7 +1103,7 @@ border-right: 2px solid rgb(137,137,137);
     font-size: 20px;
 }
     .ocean-tile:after {
-        content: "\1f4a7\FE0E";
+        content: "\1f4a7\FE0F";
     }
 
 .ocean-resource {
@@ -1112,7 +1112,7 @@ border-right: 2px solid rgb(137,137,137);
     padding: 2px;
 }
     .ocean-resource:after {
-        content: "\1f4a7\FE0E";
+        content: "\1f4a7\FE0F";
     }
 
 .city-tile {
@@ -1121,7 +1121,7 @@ border-right: 2px solid rgb(137,137,137);
     font-weight: normal;
 }
     .city-tile:before {
-        content: "\1f3d9\FE0E";
+        content: "\1f3d9\FE0F";
         font-size: 26px;
         display: inline-block;
         -webkit-transform: scale(1.6,1); /* Safari and Chrome */
@@ -1141,7 +1141,7 @@ border-right: 2px solid rgb(137,137,137);
         padding-top: 3px;
     }
         .city-tile-small:before {
-            content: "\1f3d9\FE0E";
+            content: "\1f3d9\FE0F";
             font-size: 16px;
             display: inline-block;
             -webkit-transform: scale(1.6,1); /* Safari and Chrome */
@@ -1171,7 +1171,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .oxygen-tile:after {
-        content: "O\2082\FE0E";
+        content: "O\2082\FE0F";
         font-family: Prototype;
         font-weight: normal;
     }
