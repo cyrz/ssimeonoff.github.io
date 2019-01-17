@@ -401,7 +401,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .tag-power:after {
-        content: "\26A1\FE0E";
+        content: "\26A1\FE0F";
         font-size: 26px;
         line-height: 38px;
         color: white;
@@ -439,7 +439,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .tag-earth:after {
-        content: "\1f30f\FE0E";
+        content: "\1f30f\FE0F";
     }
 
 .tag-city {
@@ -451,7 +451,7 @@ border-right: 2px solid rgb(137,137,137);
 
     .tag-city:after {
         line-height: 30px;
-        content: "\1f3d9\FE0E";
+        content: "\1f3d9\FE0F";
         vertical-align: top;
         display: inline-block;
         -webkit-transform: scale(1.6,1); /* Safari and Chrome */
@@ -473,13 +473,13 @@ border-right: 2px solid rgb(137,137,137);
     }
 
 .tag-plant {
-    background-color: #6cba50;
+    background-color: #4ba54b;
     background: #09aa09;
     color: rgb(63,112,58);
 }
 
     .tag-plant:after {
-        content: "\1F331\FE0E";
+        content: "\1F331\FE0F";
         font-size: 26px;
         line-height: 40px;
     }
@@ -492,7 +492,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .tag-animal:after {
-        content: "\1F43e\FE0E";
+        content: "\1F43e\FE0F";
         font-size: 26px;
         line-height: 40px;
     }
@@ -502,7 +502,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .tag-event:after {
-        content: "\2B07\FE0E";
+        content: "\2B07\FE0F";
         font-size: 30px;
         vertical-align: bottom;
         display: inline-block;
@@ -1080,7 +1080,7 @@ border-right: 2px solid rgb(137,137,137);
     text-align: center;
 }
     .temperature-tile:after {
-        content: "\1f321\FE0E ";
+        content: "\1f321\FE0F";
     }
 
 .greenery-tile {
@@ -1103,7 +1103,7 @@ border-right: 2px solid rgb(137,137,137);
     font-size: 20px;
 }
     .ocean-tile:after {
-        content: "\1f4a7\FE0E";
+        content: "\1f4a7\FE0F";
     }
 
 .ocean-resource {
@@ -1112,7 +1112,7 @@ border-right: 2px solid rgb(137,137,137);
     padding: 2px;
 }
     .ocean-resource:after {
-        content: "\1f4a7\FE0E";
+        content: "\1f4a7\FE0F";
     }
 
 .city-tile {
@@ -1121,7 +1121,7 @@ border-right: 2px solid rgb(137,137,137);
     font-weight: normal;
 }
     .city-tile:before {
-        content: "\1f3d9\FE0E";
+        content: "\1f3d9\FE0F";
         font-size: 26px;
         display: inline-block;
         -webkit-transform: scale(1.6,1); /* Safari and Chrome */
@@ -1141,7 +1141,7 @@ border-right: 2px solid rgb(137,137,137);
         padding-top: 3px;
     }
         .city-tile-small:before {
-            content: "\1f3d9\FE0E";
+            content: "\1f3d9\FE0F";
             font-size: 16px;
             display: inline-block;
             -webkit-transform: scale(1.6,1); /* Safari and Chrome */
@@ -1171,7 +1171,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .oxygen-tile:after {
-        content: "O\2082\FE0E";
+        content: "O\2082";
         font-family: Prototype;
         font-weight: normal;
     }
@@ -1255,19 +1255,19 @@ border-right: 2px solid rgb(137,137,137);
     color: yellow;
 }
     .titanium:after {
-        content: "\2606\FE0E";
+        content: "\2606\FE0F";
         font-weight: normal;
         font-size: 20px;
     }
 
 .plant {
-    background: linear-gradient(#0bda0b,#09aa09);
+    background: linear-gradient(#208439,#4ba32b);
     color: rgb(63,112,58);
     font-weight: normal;
 }
 
     .plant:before {
-        content: "\1F331\FE0E";
+        content: "\1F331\FE0F";
         font-size: 18px;
     }
 
@@ -1280,7 +1280,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .energy:after {
-        content: "\26A1\FE0E";
+        content: "\26A1\FE0F";
     }
 
 
@@ -1315,7 +1315,7 @@ border-right: 2px solid rgb(137,137,137);
 }
 
     .animal:before {
-        content: "\1F43e\FE0E";
+        content: "\1F43e\FE0F";
         font-size: 20px;
     }
 
@@ -1348,7 +1348,7 @@ border-right: 2px solid rgb(137,137,137);
     box-shadow: 0 1px 2px 1px rgba(0,0,0,1);
 }
 .card:after {
-    content: "\1F30F\FE0E";
+    content: "\1F30F\FE0F";
     font-size: 20px;
 }
 
@@ -1450,7 +1450,7 @@ border-right: 2px solid rgb(137,137,137);
     font-size: 18px;
 }
     .event-resource:after {
-        content: "\2B07\FE0E";
+        content: "\2B07\FE0F";
         vertical-align: bottom;
         display: inline-block;
         -webkit-transform: scale(2,1); /* Safari and Chrome */
@@ -1474,7 +1474,7 @@ border-right: 2px solid rgb(137,137,137);
 
     }
     .earth-resource:after {
-        content: "\1f30f\FE0E";
+        content: "\1f30f\FE0F";
         font-size: 23px;
         vertical-align: bottom;
     }
@@ -1502,7 +1502,7 @@ border-right: 2px solid rgb(137,137,137);
     vertical-align: middle;
 }
     .rating:after {
-        content: "\1F30F\FE0E";
+        content: "\1F30F\FE0F";
     }
 
 /************** Extras ************/
